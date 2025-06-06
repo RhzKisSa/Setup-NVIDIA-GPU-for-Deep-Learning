@@ -43,3 +43,6 @@ print("GPU Name: ", torch.cuda.get_device_name())
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print('Using device:', device)
 ```
+
+## You can see detailed instructions at
+ - [https://www.youtube.com/watch?v=nATRPPZ5dGE&t=100s)
